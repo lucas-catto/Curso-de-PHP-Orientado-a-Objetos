@@ -1,0 +1,17 @@
+{
+    "name": "lucas/php",
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucas-catto",
+            "email": "lucascattosilva2024@gmail.com"
+        }
+    ]
+}
